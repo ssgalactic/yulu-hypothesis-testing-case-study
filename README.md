@@ -88,15 +88,10 @@ The dataset includes the following features:
 6. **Weather Integration**: Partner with weather services to provide real-time updates in the rental app.
 7. **Maintenance Scheduling**: Conduct regular maintenance before peak seasons.
 
-## Conclusion 🎯
+## 📝 Project Report
 
-The analysis provides valuable insights into the factors affecting bike rentals, highlighting the importance of weather, season, and user type in shaping demand. Implementing the recommendations can help Yulu optimize its operations and enhance user experience.
-
-## Files
-
-- **[Data Analysis Scripts](./scripts)**: Python scripts used for data analysis.
-- **[Jupyter Notebooks](./notebooks)**: Jupyter notebooks with detailed analysis and visualizations.
-- **[Results](./results)**: Output files and results from hypothesis tests.
+- [Python Analysis Notebook](https://github.com/ssgalactic/yulu-hypothesis-testing-case-study/blob/main/path/to/your/python_analysis_notebook.ipynb)  
+- [Detailed PDF Report](https://github.com/ssgalactic/yulu-hypothesis-testing-case-study/blob/main/path/to/your/detailed_pdf_report.pdf)
 
 ## License
 
